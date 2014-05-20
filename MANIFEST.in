@@ -1,0 +1,3 @@
+include pavement.py
+include requirements.txt
+recursive-include package-support *

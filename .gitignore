@@ -1,0 +1,11 @@
+.settings
+.project
+.pydevproject
+*.egg-info
+*.pyc
+*.gpg
+*.pgp
+*.kdb
+env
+build
+dist
